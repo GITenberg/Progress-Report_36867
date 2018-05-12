@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38520
 description: Progress is relative; Senator O'Noonan's idea of it was not particularly
   scientific. Which would be too bad, if he had the last word!
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36867#Progress-Report
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2011-07-27'
 gutenberg_type: Text
